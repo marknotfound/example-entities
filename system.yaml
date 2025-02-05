@@ -3,4 +3,4 @@ kind: System
 metadata:
   name: example-system
 spec:
-  owner: team-a
+  owner: team-b
